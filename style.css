@@ -43,3 +43,8 @@ header {
     justify-content: space-between;
 }
 
+.navbar .logo a {
+    font-size: 1.rem;
+    font-weight: bold;
+}
+
