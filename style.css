@@ -94,6 +94,12 @@ header {
     overflow: hidden;
 }
 
+.dropdown_menu li {
+    padding: 0.7rem;
+    display: flex;
+    align-items: center;
+}
+
 /* RESPONSIVE DESIGN */
 @media (max-width: 992px) {
     .navbar .links,
